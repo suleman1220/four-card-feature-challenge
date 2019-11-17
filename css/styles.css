@@ -45,7 +45,7 @@ p{
 .calculator{
   border-color: #519FF2;
   position: absolute;
-  right: 150px;
+  right: 160px;
   bottom: 210px;
 }
 
@@ -68,7 +68,7 @@ p{
 .supervisor{
   border-color: #49D1D1;
   position: absolute;
-  left: 150px;
+  left: 160px;
   bottom: 210px;
 }
 
